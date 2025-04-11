@@ -1,0 +1,1 @@
+Esta pagina proporciona ejercicios de Gym para diferntes partes del cuerpo, solo se le debe de dar click en el nombre del grupo muscular que ocupamos trabajar ese dia y saldran diferentes ejercicios enfocados en ese musculo
